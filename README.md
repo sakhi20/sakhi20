@@ -4,7 +4,6 @@
 Hi, I’m **Sakhi Patel**! 🚀  
 A passionate **data science enthusiast** and aspiring **AI expert**, I'm constantly exploring innovative ways to harness the power of technology.  
 
-- 🔭 **Currently working on:** AI-powered Suspicious Activity Detection System using Computer Vision.  
 - 🤝 **Open to collaborating on:** Exciting AI, ML, and data science projects.  
 - 🧠 **Seeking help with:** Enhancing the performance of deep learning models for real-world applications.  
 - 🌱 **Currently learning:** Advanced machine learning concepts and big data analytics.  
